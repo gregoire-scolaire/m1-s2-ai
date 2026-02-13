@@ -1,5 +1,19 @@
 # Algorithmes de recherche - fiche complete
 
+## 0. Heuristique: definition rapide
+
+Une heuristique est une estimation du cout restant jusqu'au but.
+Dans A*, on utilise:
+`f(n) = g(n) + h(n)`
+
+- `g(n)`: cout deja depense depuis la racine
+- `h(n)`: estimation du cout restant
+
+Une bonne heuristique:
+- est admissible (pas de surestimation)
+- est consistante
+- discrimine bien les etats (plus informative)
+
 ## 1. BFS (Breadth-First Search)
 
 ### Principe

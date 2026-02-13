@@ -6,6 +6,8 @@
 3. Tester une execution rapide des cellules clefs.
 4. Verifier la presence de `pandas`, `tabulate` (si utilises).
 5. Preparer le dossier `dossier_controle_tp` localement.
+6. Installer les extensions VS Code de `dossier_controle_tp/vscode_sans_llm.md`.
+7. Verifier que l'auto-completion fonctionne dans un notebook test.
 
 ## Pendant le controle
 1. Identifier d'abord le type de probleme (non informe, informe, SAT, CSP).

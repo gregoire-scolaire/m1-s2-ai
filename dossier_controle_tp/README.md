@@ -8,6 +8,7 @@ Ce dossier est pense pour une utilisation **sans internet** pendant un controle 
 - `sat_csp_sudoku.md`: modelisation Sudoku en SAT/CSP + comparaison
 - `faq_tp_ia.md`: FAQ pratique de revision
 - `checklist_controle.md`: procedure rapide le jour du controle
+- `vscode_sans_llm.md`: extensions VS Code recommandees + reglages d'auto-completion + astuces controle
 
 ## Notebooks corriges
 Les versions corrigées sont dans le projet avec le suffixe `_corriger.ipynb`.
